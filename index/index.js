@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   index.js                                           :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: dani_mm__ <dani_mm__@student.42.fr>        +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/10/21 11:06:28 by dani_mm__         #+#    #+#             */
-/*   Updated: 2024/10/21 11:44:37 by dani_mm__        ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 // // Importamos el módulo 'express', que nos permite crear un servidor web de manera sencilla.
 // const express = require('express');
 
